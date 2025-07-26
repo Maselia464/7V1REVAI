@@ -1,2 +1,2 @@
 # 7V1REVAI
-REVERSE 7 VS 1 AI
+Code for 7 VS 1 AI Sister land pine map
